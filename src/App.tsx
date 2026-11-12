@@ -28,3 +28,4 @@ export default function App() {
 // remove description
 // horse monitoring funcionality
 // add footer
+// remove title
