@@ -11,3 +11,4 @@ createRoot(document.getElementById('root')!).render(
 
 // footer
 // add footer
+// add component
