@@ -23,9 +23,4 @@ export default function App() {
     </div>
   )
 }
-// Footerr
-// add description
-// remove description
-// horse monitoring funcionality
-// add footer
-// remove title
+// start again
