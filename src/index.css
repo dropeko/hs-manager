@@ -1,5 +1,7 @@
 @import 'tailwindcss';
 
+/* New Colour Palette */
+
 @theme {
   /* === Brand palette === */
   --color-brand-brown: #652621;
