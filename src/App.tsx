@@ -23,5 +23,4 @@ export default function App() {
     </div>
   )
 }
-// start again
-// footer
+// remove footer
