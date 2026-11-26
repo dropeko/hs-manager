@@ -8,8 +8,4 @@ createRoot(document.getElementById('root')!).render(
     <App />
   </StrictMode>,
 )
-
-// footer
-// add footer
-// add component
-// remove component
+// add description
